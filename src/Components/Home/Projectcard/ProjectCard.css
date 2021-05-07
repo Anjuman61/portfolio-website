@@ -1,0 +1,22 @@
+.projects-description ul li{
+    list-style: none;
+    color: teal;
+}
+.project-card{
+    border: 2px solid rgba(114, 39, 95, 0.548);
+    background-color: rgba(202, 150, 167, 0.575);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.project-btn{
+    text-decoration: none;
+    color: white;
+}
+.projects-description{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.project-img{
+border-radius: 5px;
+}

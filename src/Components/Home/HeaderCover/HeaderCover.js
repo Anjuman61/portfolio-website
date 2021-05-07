@@ -4,7 +4,9 @@ import './HeaderCover.css';
 
 const HeaderCover = () => {
     return (
-        <div className=' row d-flex align-items-center  header-cover'>
+       <div className='header-cover'>
+           <div className='container'>
+           <div className=' row d-flex align-items-center'>
            <div className='col-md-4 header-description'> 
                <h1>Hi! This is Anjuman</h1>
             <p> A passionate individual who always looking forward to do something out of border.I am working as 
@@ -17,6 +19,8 @@ const HeaderCover = () => {
                  <img  src={Design} className="mt-5 img-fluid header-img" alt=""/>
              </div>
         </div>
+           </div>
+       </div>
     );
 };
 

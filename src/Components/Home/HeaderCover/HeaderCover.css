@@ -1,5 +1,9 @@
 .header-cover{
     background-color: rgba(36, 43, 143, 0.493);
+    align-items: center;
+}
+.header-description{
+  text-align: center;
 }
 .header-description h1{
  color: rgb(19, 78, 105);
@@ -15,6 +19,7 @@
   
 .header-img{
     border-radius: 5px;
+    padding-left: 20px;
     animation-name: upDown;
     animation-duration: 7s;
     animation-iteration-count: infinite;

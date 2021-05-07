@@ -1,0 +1,10 @@
+.skills{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.skills-container {
+    background-color: rgba(80, 144, 160, 0.507);
+}
+.single-skill:hover{
+    transform: scale(1.1);
+}
