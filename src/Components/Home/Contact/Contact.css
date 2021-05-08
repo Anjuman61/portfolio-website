@@ -5,3 +5,7 @@
 .email-form{
     border-left: 1px solid rgb(79, 63, 146);
 }
+.contact-form a{
+    text-decoration: none;
+    color:black;
+}

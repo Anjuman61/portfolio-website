@@ -4,7 +4,7 @@ import './HeaderCover.css';
 
 const HeaderCover = () => {
     return (
-       <div className='header-cover'>
+       <div className='header-cover' id='header'>
            <div className='container'>
            <div className=' row d-flex align-items-center'>
            <div className='col-md-4 header-description'> 

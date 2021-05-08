@@ -26,7 +26,7 @@ const myBlogs=[
 
 const Blogs = () => {
     return (
-        <div className='blogs-container'>
+        <div className='blogs-container' id='blogs'>
             <h1 className="text-center  text-info my-5">Read My Blogs</h1>
            <div>
            <div className="container">  

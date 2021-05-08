@@ -84,7 +84,7 @@ const projects=[
 
 const Projects = () => {
     return (
-        <div className='container'>
+        <div className='container' id='projects'>
             <h3>Latest Projects</h3>
             {
                 projects.map(pj=><ProjectCard project={pj}></ProjectCard>)
